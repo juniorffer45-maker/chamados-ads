@@ -13,3 +13,6 @@ Para inicializar a aplicação, no terminal, digite o comando "uv sync". Isso ir
 
 Para executar, digite "uv run flask --app app run --host=0.0.0.0 --port=5000" ou "Flask Run" no terminal
 
+Para encerrar a execução, no terminal, aplique o comando Ctrl+C, em seguida, para desativar o ambiente virtual digite "deactivate"
+
+Nota* - O Ambiente Virtual está nomeado com o nome do presente repositório
