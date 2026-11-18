@@ -1,9 +1,7 @@
 # chamados-ads
 
 ## Nome do Aluno: 
-Aldemir Ferreira da Silva Júnior
-
-Matricula:
+Aldemir Ferreira da Silva Júnior | Matricula:
 
 
 ## Objetivo do Projeto: 
